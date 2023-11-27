@@ -1,6 +1,6 @@
 # 🌐 API REST con Spring y Java
 
-Este repositorio alberga el código fuente de una potente API REST desarrollada con Java y el framework Spring. La API proporciona un conjunto completo de operaciones CRUD (Crear, Leer, Actualizar y Eliminar), permitiendo una gestión eficiente de datos para aplicaciones web y móviles.
+Este repositorio alberga el código fuente del Backend de una App Web Full Stack de Clientes: Permitiendo una gestión eficiente de datos y una consistente persistencia de ellos.
 
 ## Características Principales
 
@@ -9,7 +9,7 @@ Este repositorio alberga el código fuente de una potente API REST desarrollada 
   - Spring Framework
 
 - 🔧 **Operaciones CRUD:**
-  - Implementación completa de operaciones CRUD para una gestión eficaz de datos.
+  - Implementación completa de operaciones CRUD (Crear, Leer, Actualizar y Eliminar) para una gestión eficaz de datos.
 
 - 🚀 **Escalabilidad y Rendimiento:**
   - Diseñada para escalabilidad y rendimiento óptimo, garantizando un funcionamiento suave incluso en entornos de alta demanda.
